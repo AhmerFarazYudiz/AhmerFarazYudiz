@@ -1,76 +1,100 @@
-# Hi, I'm Ahmer Faraz
+<p align="center">
+  <img src="header.gif" alt="Animated header" width="100%" />
+</p>
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=00cf00)
+<h3 align="center">Building scalable backends, robust APIs, and real-time product experiences.</h3>
 
-_Last updated:_ `2026-09-07`
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00cf00&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00cf00" alt="followers" />
+  </a>
+</p>
 
 ## About Me
-- Full Stack Developer at Yudiz Solutions Ltd
-- Software Developer passionate about building scalable and practical products
-- Experienced in backend development, APIs, dashboards, and product-focused systems
-- Interested in clean architecture, real-world problem solving, and modern web platforms
 
-## What I'm Up To
-- Currently working on backend systems and product development
-- Building applications with strong focus on scalability and maintainability
-- Exploring better system design, APIs, and production-ready engineering practices
+- Full Stack Developer at Yudiz Solutions Ltd, focused on backend architecture, APIs, and production-ready systems.
+- I like turning messy real-world requirements into clean, scalable services — from IoT data pipelines to multi-role SaaS platforms.
+- I care about maintainable system design as much as shipping fast.
+
+## Experience Snapshot
+
+```text
+Role: Full Stack Developer
+Company: Yudiz Solutions Ltd
+Core Focus: APIs, backend systems, IoT integrations, event-driven workflows
+Strengths: RESTful API design, cloud deployment, async processing, system architecture
+```
 
 ## Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL / MySQL" title="SQL / MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### Backend & Frameworks
+### Backend And APIs
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express" title="Express"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Authentication-1D4ED8?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication" />
 </p>
 
-### Databases & Tools
+### Cloud And Infrastructure
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="Redis" title="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" title="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+### Data And Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### Tools And Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+## What I Work On
+
+- Multi-role SaaS platforms covering asset, reminder, and document management.
+- RESTful APIs backed by asynchronous, event-driven processing for notifications and background tasks.
+- IoT-connected products requiring real-time sync between devices and mobile apps.
+- Cloud deployments on AWS with a focus on secure, scalable file storage and delivery.
 
 ## Featured Projects
 
-### PA360
-Developed scalable backend APIs for PA360, a multi-role platform for asset, reminder, and document management.
+- **PA360** — Multi-role platform for asset, reminder, and document management. Built scalable Django REST Framework APIs, deployed on AWS EC2 with S3 for file storage, and implemented asynchronous, event-driven workflows for reminders and notifications. Integrated payment gateways and calendar APIs.
+- **Swigable** — Backend for a smart water bottle app tracking hydration in real time. Designed REST APIs for consumption logs and analytics, synced IoT device data with the mobile app, and optimized queries and background aggregation for frequent device updates.
 
-- Built scalable backend services using Django REST Framework
-- Designed robust APIs for asset, reminder, and user management
-- Deployed and managed services on AWS EC2 with S3 for secure file storage and retrieval
-- Implemented asynchronous processing and event-driven workflows for reminders, notifications, and background tasks
-- Ensured efficient data flow and real-time user interactions across the platform
-- Integrated third-party services, including payment gateways and calendar APIs
+## Connect With Me
 
-### Swigable
-Developed the backend system for a smart water bottle application using Python and Django REST Framework.
-
-- Enabled users to track daily water intake, hydration goals, and consistency streaks in real time
-- Designed and implemented RESTful APIs for user data, water consumption logs, and analytics
-- Ensured efficient data processing and seamless synchronization between the IoT device and mobile application
-- Built features for tracking hydration patterns, generating streaks, and providing health insights
-- Optimized database queries and API performance to handle frequent device data updates
-- Integrated asynchronous processing for background data aggregation tasks
-- Collaborated on system design and backend architecture for a modular, maintainable, and secure codebase
-
-## GitHub Stats
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&repositories.forks=true&languages=1&stars=1&config.timezone=Asia%2FKolkata)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-## Contact Me
-- LinkedIn: [your-linkedin](https://linkedin.com/in/YOUR_LINKEDIN)
-- Email: `ahmer.faraz@yudiz.com`
+<p>
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
+  <a href="mailto:ahmer.faraz@yudiz.com">Email</a>
+</p>
