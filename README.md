@@ -137,13 +137,6 @@ B2C ML platform generating unseen product image variations for manufacturers and
 </tr>
 </table>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true" alt="top languages" height="165" />
-</p>
-
 ## Connect With Me
 
 <p align="center">
