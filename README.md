@@ -1,4 +1,4 @@
-# Hi, I'm Your Name
+# Hi, I'm Ahmer Faraz
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&color=00cf00)
 
