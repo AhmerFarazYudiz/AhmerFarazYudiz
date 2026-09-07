@@ -5,6 +5,7 @@
 _Last updated:_ `2026-09-07`
 
 ## About Me
+- Full Stack Developer at Yudiz Solutions Ltd
 - Software Developer passionate about building scalable and practical products
 - Experienced in backend development, APIs, dashboards, and product-focused systems
 - Interested in clean architecture, real-world problem solving, and modern web platforms
