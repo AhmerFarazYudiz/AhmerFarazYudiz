@@ -1,100 +1,109 @@
 <p align="center">
-  <img src="header.gif" alt="Animated header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00cf00&height=200&section=header&text=Ahmer%20Faraz&fontSize=48&fontColor=ffffff&desc=Python%20Backend%20Developer%20%7C%20API%20%26%20Cloud%20Architecture&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" width="100%" />
 </p>
-
-<h3 align="center">Building scalable backends, robust APIs, and real-time product experiences.</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00cf00&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00cf00" alt="followers" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CF00&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Python;Designing+cloud-ready+API-first+systems;Exploring+LLMs+and+AI+agents" alt="typing animation" />
 </p>
 
-## About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00cf00&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00cf00" alt="followers" />
+</p>
 
-- Full Stack Developer at Yudiz Solutions Ltd, focused on backend architecture, APIs, and production-ready systems.
-- I like turning messy real-world requirements into clean, scalable services — from IoT data pipelines to multi-role SaaS platforms.
-- I care about maintainable system design as much as shipping fast.
+## Who I Am
 
-## Experience Snapshot
+I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with 2.5+ years building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
 
-```text
-Role: Full Stack Developer
-Company: Yudiz Solutions Ltd
-Core Focus: APIs, backend systems, IoT integrations, event-driven workflows
-Strengths: RESTful API design, cloud deployment, async processing, system architecture
-```
+`B.E. + Diploma` · `2.5+ yrs experience` · `Ahmedabad, India`
+
+## Quick Facts
+
+| | |
+|---|---|
+| **Current Focus** | AI-driven apps with LLMs (GPT, Claude, open-source models), chatbots, intelligent automation |
+| **Backend** | Python — Django, Flask, FastAPI — modular, API-first architecture |
+| **Cloud** | AWS (EC2, ECS, Lambda, API Gateway, S3, RDS) and Google Cloud |
+| **Async & Messaging** | Redis (queues, caching, pub/sub), Celery, event-driven pipelines |
+| **Security** | RBAC, JWT/OAuth authentication, encryption, secure system design |
 
 ## Tech Stack
 
-### Languages
+**Languages**
+`Python` `JavaScript` `TypeScript` `SQL` `HTML5` `CSS3`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+**Backend & APIs**
+`Django` `Django REST Framework` `Flask` `FastAPI` `Node.js` `Express` `JWT / OAuth` `RBAC`
 
-### Backend And APIs
+**Cloud & Infrastructure**
+`AWS EC2` `AWS ECS` `AWS Lambda` `API Gateway` `AWS S3` `AWS RDS` `Google Cloud Platform` `Docker` `Linux`
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Authentication-1D4ED8?style=for-the-badge&logo=auth0&logoColor=white" alt="Authentication" />
-</p>
+**Data & Databases**
+`PostgreSQL` `MySQL` `MongoDB` `SQLite` `Redis`
 
-### Cloud And Infrastructure
+**AI & Machine Learning**
+`LLMs (GPT / Claude)` `AI Agents` `TensorFlow` `NLP` `Machine Learning`
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+**Automation & Integrations**
+`Celery` `Web Scraping` `Selenium` `Task Scheduling` `Twilio` `Payment Gateways`
 
-### Data And Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-### Tools And Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
-
-## What I Work On
-
-- Multi-role SaaS platforms covering asset, reminder, and document management.
-- RESTful APIs backed by asynchronous, event-driven processing for notifications and background tasks.
-- IoT-connected products requiring real-time sync between devices and mobile apps.
-- Cloud deployments on AWS with a focus on secure, scalable file storage and delivery.
+**Tools**
+`Git` `GitHub` `Postman` `VS Code`
 
 ## Featured Projects
 
-- **PA360** — Multi-role platform for asset, reminder, and document management. Built scalable Django REST Framework APIs, deployed on AWS EC2 with S3 for file storage, and implemented asynchronous, event-driven workflows for reminders and notifications. Integrated payment gateways and calendar APIs.
-- **Swigable** — Backend for a smart water bottle app tracking hydration in real time. Designed REST APIs for consumption logs and analytics, synced IoT device data with the mobile app, and optimized queries and background aggregation for frequent device updates.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**PA360**
+
+Multi-role platform for asset, reminder, and document management.
+
+- Django REST Framework APIs
+- Deployed on AWS EC2 + S3
+- Event-driven reminders & notifications
+- Payment gateway & calendar API integrations
+
+</td>
+<td width="33%" valign="top">
+
+**Swigable**
+
+Backend for a smart water bottle app tracking hydration in real time.
+
+- REST APIs for consumption logs & analytics
+- Real-time IoT device ↔ mobile sync
+- Redis-backed async data aggregation
+- Query & API performance optimization
+
+</td>
+<td width="33%" valign="top">
+
+**Conceptualize AI**
+
+B2C ML platform generating unseen product image variations for manufacturers and artists.
+
+- GAN-based generation (Django + TensorFlow)
+- Numpy-driven data pipelines
+- Plan-based compute allocation
+- PayPal billing integration
+
+</td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true" alt="top languages" height="165" />
+</p>
 
 ## Connect With Me
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:ahmer.faraz@yudiz.com">Email</a>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmer.faraz@yudiz.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
