@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00cf00&height=200&section=header&text=Ahmer%20Faraz&fontSize=48&fontColor=ffffff&desc=Python%20Backend%20Developer%20%7C%20API%20%26%20Cloud%20Architecture&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" width="100%" />
+  <img src="github-header-banner.png" alt="Ahmer Faraz - Python Fullstack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Who I Am
 
-I'm a Python Full Stack Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with experience in building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
+I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with 2.5+ years building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
 
 `B.E. + Diploma` · `2.5+ yrs experience` · `Ahmedabad, India`
 
@@ -30,25 +30,82 @@ I'm a Python Full Stack Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) 
 ## Tech Stack
 
 **Languages**
-`Python` `JavaScript` `TypeScript` `SQL` `HTML5` `CSS3`
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
 **Backend & APIs**
-`Django` `Django REST Framework` `Flask` `FastAPI` `Node.js` `Express` `JWT / OAuth` `RBAC`
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth-3C4858?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
+</p>
 
 **Cloud & Infrastructure**
-`AWS EC2` `AWS ECS` `AWS Lambda` `API Gateway` `AWS S3` `AWS RDS` `Google Cloud Platform` `Docker` `Linux`
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 **Data & Databases**
-`PostgreSQL` `MySQL` `MongoDB` `SQLite` `Redis`
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
 **AI & Machine Learning**
-`LLMs (GPT / Claude)` `AI Agents` `TensorFlow` `NLP` `Machine Learning`
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Machine_Learning-11557C?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+</p>
 
 **Automation & Integrations**
-`Celery` `Web Scraping` `Selenium` `Task Scheduling` `Twilio` `Payment Gateways`
+
+<p>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+</p>
 
 **Tools**
-`Git` `GitHub` `Postman` `VS Code`
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ## Featured Projects
 
