@@ -2,15 +2,6 @@
   <img src="github-header-banner.png" alt="Ahmer Faraz - Python Fullstack Developer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CF00&center=true&vCenter=true&width=600&lines=Building+scalable+backends+with+Python;Designing+cloud-ready+API-first+systems;Exploring+LLMs+and+AI+agents" alt="typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=00cf00&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=00cf00" alt="followers" />
-</p>
-
 ## Who I Am
 
 I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with 2.5+ years building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
