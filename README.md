@@ -6,7 +6,7 @@
 
 I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with experience in building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
 
-`B.E. + Diploma` · `2.5+ yrs experience` · `Ahmedabad, India`
+`Python Full Stack Developer` · `Yudiz Solutions Ltd` · `Ahmedabad, India`
 
 ## Quick Facts
 
