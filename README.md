@@ -73,5 +73,4 @@ Developed the backend system for a smart water bottle application using Python a
 
 ## Contact Me
 - LinkedIn: [your-linkedin](https://linkedin.com/in/YOUR_LINKEDIN)
-- Portfolio: [your-website](https://yourwebsite.com)
-- Email: `your@email.com`
+- Email: `ahmer.faraz@yudiz.com`
