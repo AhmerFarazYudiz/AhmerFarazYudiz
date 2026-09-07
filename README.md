@@ -4,7 +4,7 @@
 
 ## Who I Am
 
-I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with 2.5+ years building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
+I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) with experience in building API-first, cloud-ready systems. My work spans production SaaS platforms, IoT-connected products, and — more recently — AI-driven applications built on LLMs. I care most about solution architecture: turning a business requirement into something modular, secure, and easy to maintain six months later.
 
 `B.E. + Diploma` · `2.5+ yrs experience` · `Ahmedabad, India`
 
@@ -25,7 +25,6 @@ I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) wit
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
@@ -39,7 +38,6 @@ I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) wit
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/OAuth-3C4858?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
 </p>
@@ -51,7 +49,6 @@ I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) wit
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
   <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
-  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
   <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -86,7 +83,6 @@ I'm a Python Backend Developer at **Yudiz Solutions Ltd** (Ahmedabad, India) wit
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white" alt="Web Scraping" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
 </p>
 
 **Tools**
@@ -151,7 +147,7 @@ B2C ML platform generating unseen product image variations for manufacturers and
 ## Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AhmerFarazYudiz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmer-faraz-646787434/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahmer.faraz@yudiz.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
